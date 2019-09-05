@@ -1,1 +1,3 @@
 # AlienInvasion
+
+#install pygame pkg
